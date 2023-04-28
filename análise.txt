@@ -1,21 +1,22 @@
-p1
-affordance: indicativo para pesquisar na barra de pesquisa.
+Momento 1:
+Affordance: indicativo (placeholder) para digitar na barra de pesquisa.
 
-metáfora: ícones de lupa para pesquisar digitando, microfone para pesquisar por voz, câmera para pesquisar por foto, pessoa para ver sua conta, engrenagem para acessar configurações.
+Metáfora: ícones de lupa para pesquisar digitando, microfone para pesquisar por voz, câmera para pesquisar por foto, pessoa para ver sua conta, além da engrenagem para acessar configurações.
 
-ihc: barra de pesquisa (incluíndo seus ícones), anúncios, conta do usuário e configurações.
+IHC: barra de pesquisa (incluíndo seus ícones), anúncios, conta do usuário e configurações.
 
-arquitetura da informação: funcionalidade do usuário pesquisar.
+Arquitetura da informação: funcionalidade do usuário pesquisar.
 
-design visual: conta com padrão de estrutura, de fontes, cores, além do espaçamento.
+Design visual: conta com padrão de estrutura, de fontes, cores, além do espaçamento.
 
-p2
-eficácia: cumpre com o objetivo de ser um buscador.
 
-eficiência: rapidamente o usuário consegue cumprir uma tarefa, em 2 cliques já pesquisa.
+Momento 2:
+Eficácia: cumpre com o objetivo de ser um buscador.
 
-engajamento: bem desenvolvido, já que conta com uma interface amigável com layout moderno, além de fácil leitura e navegação pelo site.
+Eficiência: rapidamente o usuário consegue cumprir uma tarefa, em 2 cliques já pesquisa.
 
-tolerância ao erro: ainda não conta com isso.
+Engajamento: bem desenvolvido, já que conta com uma interface amigável com layout moderno, além de fácil leitura e navegação pelo site.
 
-fácil de aprender: buscador que segue o padrão dos outros, o habitual, logo, usuários leigos facilmente compreendem.
+Tolerância ao erro: ainda não conta com isso.
+
+Fácil de aprender: buscador que segue o padrão dos outros, o habitual, logo, usuários leigos facilmente compreendem.
